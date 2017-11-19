@@ -1,0 +1,28 @@
+.canvas {
+    background color: white;
+}
+
+.heading {
+    font-family: "League Gothic";
+    sans-serif;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 300px;
+}
+
+#countup p {
+    display: inline;
+    font-family: "League Gothic";
+    sans-serif;
+    color: blueviolet;
+    font-size: 90px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+
+.row-sour .fa-lemon-o {
+    color: #fff44f;
+}
