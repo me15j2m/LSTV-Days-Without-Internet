@@ -9,7 +9,7 @@
     font-size: 100px;
     text-align: center;
     text-transform: uppercase;
-    padding-top: 300px;
+    padding-top: 60px;
 }
 
 #countup p {
@@ -26,3 +26,4 @@
 .row-sour .fa-lemon-o {
     color: #fff44f;
 }
+
